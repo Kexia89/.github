@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="assets/kexia-logo.jpg" alt="Kexia — Artificial Intelligence Research and Engineering" width="210" />
-#
+
+# KEXIA
 
 ### Artificial Intelligence · Research · Engineering
 
